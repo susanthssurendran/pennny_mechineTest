@@ -1,0 +1,359 @@
+.logomain img{
+    width: 70%;
+}
+a.nav-link {
+    font-size: 14px;
+    font-weight: 600;
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: #F54749 !important;
+}
+.nav-link:focus, .nav-link:hover {
+    color: #F54749 !important;
+}
+.btn-header{
+    background-color: #F54749;
+    text-align: center;
+    padding: 5px 20px;
+    border-radius: 20px;
+    color: #fff;
+}
+.mainheader{
+    background-color: #fff !important;
+}
+.navbar-expand-lg .navbar-collapse {
+    justify-content: space-between !important;
+}
+.btn-header .title1{
+    font-size: 14px;
+    font-weight: 300;
+}
+.btn-header .title2{
+    font-size: 20px;
+    font-weight: 700;
+}
+.btn-header .title3{
+    font-size: 14px;
+    font-weight: 300;
+}
+.top{
+    font-size: 72px;
+    color: #2F2F2F;
+    font-weight: bold;
+}
+.bottom{
+    font-size: 72px;
+    color: #F54749;
+    font-weight: bold;
+}
+.sidettlecontent, .sidettlecontenthealthy {
+    line-height: 60px;
+}
+.sidettlecontent p, .sidettlecontenthealthy P{
+    font-size: 18px;
+    line-height: 25px;
+
+}
+.bodymain{
+    padding-top:60px;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+}
+.btn1{
+    background-color: #F54749 !important;
+    border: 2px solid #F54749 !important;
+    border-radius: 100px !important;
+    padding: 5px 20px !important;
+    font-weight: 700 !important;
+}
+.btn1:hover{
+    color: #F54749 !important;
+    background-color: #f5474a00 !important;
+    border: 2px solid #F54749 !important;
+    border-radius: 100px !important;
+    padding: 5px 20px !important;
+    font-weight: 700 !important;
+}
+.sideimage1{
+    width: 100%;
+}
+.mainbanner1{
+    align-items: center;
+}
+.mainrowourflavors{
+    text-align: center;
+}
+.flourctr{
+    padding-bottom: 60px;
+}
+.flavorstitle{
+    font-size: 72px;
+    font-weight: bold;
+}
+.textoneourfla1{
+    color: #F54749;
+    
+}
+.flour1{
+    background-color: #fff;
+    box-shadow: 0px 0px 20px rgba(245, 71, 73, 0.4);
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+.cardforadd{
+    padding-top: 30px;
+}
+.imageflour img{
+    width: 100%;
+}
+.titleflourcard{
+    font-size: 24px;
+    font-weight: 600;
+    color: #F54749;
+}
+.pricediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.price1{
+    font-size: 30px;
+    font-weight: 700;
+    padding-right: 5px;
+}
+.btncard{
+    background-color: #F54749 !important;
+    border: 2px solid #F54749 !important;
+    border-radius: 100px !important;
+    padding: 5px 20px !important;
+    font-weight: 700 !important;
+}
+.btncard:hover{
+    background-color: #f5474a00 !important;
+    border: 2px solid #F54749 !important;
+    border-radius: 100px !important;
+    padding: 5px 20px !important;
+    font-weight: 700 !important;
+    color: #F54749 !important;
+}
+.Raindow, .healthymain{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.sideimghealthy{
+    width: 100%;
+}
+.maintitleproductcol{
+    justify-content: center;
+    text-align: center;
+}
+.maintitleproductclr{
+    font-size: 52px;
+    font-weight: bold;
+    color: #F54749;
+}
+.maintitleproductclr2{
+    font-size: 52px;
+    font-weight: bold;
+    color: #2F2F2F;
+
+}
+.maintitleproductclr3{
+    font-size: 52px;
+    font-weight: 200;
+    color: #2F2F2F;
+}
+.mainpclass{
+    line-height: 50px;
+}
+.productcol{
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.productimagedetails{
+    background-color: #F54749;
+    width: 100%;
+    border-radius: 30px;
+    height: 400px;
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+
+.testimaincnt{
+    display: flex;
+}
+
+.testbanner{
+    background-color: #F54749;
+    border-radius: 30px;
+    padding: 10px;
+    padding-bottom: 60px;
+}
+.testimaincnt{
+    align-items: center;
+}
+.testititle{
+    text-align: center;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: #fff;
+}
+.testimatter h4{
+    color: #fff;
+}
+.testimatter p{
+    color: #fff;
+}
+.testiprifileimg{
+    background-color: #fff;
+    border-radius: 100px;
+    height: 80px;
+    width: 80px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.testiprofileimage{
+    justify-content: end;
+    display: flex;
+    padding-right: 20px;
+}
+.testiprifileimg2{
+    background-color: #fff;
+    border-radius: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    
+}
+.testiprifileimg3{
+    background-color: #fff;
+    border-radius: 100px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 50px;
+    width: 50px;
+    
+}
+.testiarrow{
+    display: flex;
+    justify-content: end;
+    padding-right: 10px;
+}
+.productimagedetails{
+    background-image: url(/public/juice\ image.jpg);
+    background-size: cover;
+}
+.rating{
+    color: yellow;
+}
+
+
+
+
+
+
+.footer{
+    margin-top: 50px;
+    background-color: #2F2F2F;
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.footersocial{
+    display: flex;
+    color: #fff;
+}
+.footersocial div:hover{
+    color: #F54749;
+}
+.footersocial div{
+    padding: 10px;
+}
+.footernumber h1{
+    font-size: 32px;
+    color: #fff;
+    font-weight: bold;
+}
+.footerlinks{
+    padding-top: 60px;
+}
+.footermainlinks a{
+    text-decoration: none;
+    color: #fff;
+}
+.footermainlinks a:hover{
+    color: #F54749;
+    padding-left: 10px;
+    transition: .5s ease-in-out;
+}
+.footercopyright h5{
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+.footercopyright{
+    padding-top: 100px;
+}
+.mainlogofooter img{
+    width: 60%;
+}
+
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+    .top{
+        font-size: 50px;
+        color: #2F2F2F;
+        font-weight: bold;
+        line-height: 20px;
+    }
+    .bottom{
+        font-size: 50px;
+        color: #F54749;
+        font-weight: bold;
+        line-height: 20px;
+    }
+   
+    
+}
+
+@media (max-width: 767.98px) {
+    .sidettlecontent {
+        text-align: center;
+    }
+    .mainbanner1{
+        text-align: center;
+    }
+    .sidettlecontenthealthy {
+        text-align: center;
+    }
+    .healthyrow{
+        text-align: center;
+    }
+    a.logomain.navbar-brand {
+        width: 75%;
+    }
+    .ourflovors {
+        margin-top: 5rem;
+    }
+    .flavorstitle {
+        line-height: 53px;
+    }
+    .maintitleproductclr, .maintitleproductclr2, .maintitleproductclr3 {
+        font-size: 42px;
+    }
+    .bodymain {
+        margin-top: 5rem;
+    }
+}
